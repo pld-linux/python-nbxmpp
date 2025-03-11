@@ -7,7 +7,7 @@
 Summary:	Non blocking Jabber/XMPP module
 Name:		python-nbxmpp
 Version:	0.6.6
-Release:	7
+Release:	8
 License:	GPL v3
 Group:		Libraries/Python
 # https://dev.gajim.org/gajim/python-nbxmpp/tags
